@@ -1,4 +1,4 @@
-# sfmcdg-example-helloWorld
+# sfmcdg-example-helloworld
 
 > Example content to demonstrate sharing packaged SFMC content.
 
@@ -11,17 +11,17 @@ Before installing, [download and install Node.js](https://nodejs.org/en/download
 Installation is done using the [npm install command](https://docs.npmjs.com/downloading-and-installing-packages-locally):
 
 ```
-$ npm install sfmcdg-example-helloWorld
+$ npm install sfmcdg-example-helloworld
 ```
 
 This is followed by using the SFMC package manager to upload the package contained in the `sfmc` directory.
 
 ## Contribute
 
-For the most recent version https://github.com/sfmcdg/sfmcdg-example-helloWorld
+For the most recent version https://github.com/sfmcdg/sfmcdg-example-helloworld
 
-To contribute make a [pull request](https://github.com/sfmcdg/sfmcdg-example-helloWorld/pulls) or open a ticket on the [issues queue](https://github.com/sfmcdg/sfmcdg-example-helloWorld/issues).
+To contribute make a [pull request](https://github.com/sfmcdg/sfmcdg-example-helloWwrld/pulls) or open a ticket on the [issues queue](https://github.com/sfmcdg/sfmcdg-example-helloworld/issues).
 
 ## License
 
-[MIT](https://github.com/sfmcdg/sfmcdg-example-helloWorld/blob/master/LICENSE)
+[MIT](https://github.com/sfmcdg/sfmcdg-example-helloworld/blob/master/LICENSE)
