@@ -1,0 +1,13 @@
+{
+  "name": "sfmcdg-example-helloWorld",
+  "version": "1.0.0",
+  "description": "Example content to demonstrate sharing packaged SFMC content.",
+  "keywords": [
+    "sfmcdg",
+    "sfmc",
+    "example"
+  ],
+  "repository": "sfmcdg/sfmcdg-example-helloWorld",
+  "author": "mattcam <matt@mattcameron.me>",
+  "license": "MIT"
+}
