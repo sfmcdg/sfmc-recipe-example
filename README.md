@@ -14,7 +14,7 @@ Installation is done using the [npm install command](https://docs.npmjs.com/down
 $ npm install sfmcdg-example-helloworld
 ```
 
-This is followed by using the SFMC package manager to upload the package contained in the `sfmc` directory.
+This is followed by zipping the folder `sfmcdg/sfmcdg-example-helloworld` and then using the SFMC package manager to upload the zipped package file contained in the `sfmc` directory.
 
 ## Contribute
 
