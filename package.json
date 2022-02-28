@@ -1,13 +1,14 @@
 {
-  "name": "sfmcdg-example-helloworld",
-  "version": "1.0.1",
+  "name": "sfmc-recipe-example",
+  "version": "1.0.3",
   "description": "Example content to demonstrate sharing packaged SFMC content.",
   "keywords": [
     "sfmcdg",
     "sfmc",
+    "recipe",
     "example"
   ],
-  "repository": "sfmcdg/sfmcdg-example-helloworld",
+  "repository": "sfmcdg/sfmc-recipe-example",
   "author": "mattcam <matt@mattcameron.me>",
   "license": "MIT"
 }
